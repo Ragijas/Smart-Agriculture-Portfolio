@@ -1,0 +1,3 @@
+Day 10 - Sensor log started
+Temperature: 24.5
+Humidity: 65.0

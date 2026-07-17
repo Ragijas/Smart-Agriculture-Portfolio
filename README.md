@@ -8,8 +8,8 @@ is a working, tested output — not a tutorial exercise left unfinished.
 
 ## Roadmap
 
-- **Chapter 0** — Foundational Setup *(in progress)*
-- **Chapter 1** — Python Fundamentals
+- **Chapter 0** — Foundational Setup *(completed)*
+- **Chapter 1** — Python Fundamentals*(in progress)*
 - **Chapter 2** — Git & GitHub Workflow
 - **Chapter 3** — ESP32 & Sensors
 - **Chapter 4** — Data Collection & Processing
